@@ -1,0 +1,96 @@
+{
+    "existing_experiments": [
+        {
+            "name": "Borexino",
+            "exposure_ton_year": 279.65,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.55,
+            "Z": 6.0,
+            "N": 6.0,
+            "detector_mass_tons": 71.0
+        },
+        {
+            "name": "SNO+",
+            "exposure_ton_year": 0.0,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.0,
+            "Z": 0.0,
+            "N": 0.0,
+            "detector_mass_tons": 0.0
+        },
+        {
+            "name": "SK",
+            "exposure_ton_year": 0.0,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.0,
+            "Z": 0.0,
+            "N": 0.0,
+            "detector_mass_tons": 0.0
+        },
+        {
+            "name": "PandaX-Paired",
+            "exposure_ton_year": 1.25,
+            "threshold_keVnr": 1.1,
+            "threshold_MeVee": 0.0,
+            "Z": 54,
+            "N": 77,
+            "detector_mass_tons": 0.0
+        },
+        {
+            "name": "PandaX-4T-US2",
+            "exposure_ton_year": 1.04,
+            "threshold_keVnr": 0.3,
+            "threshold_MeVee": 0.0,
+            "Z": 54,
+            "N": 77,
+            "detector_mass_tons": 0.0
+        },
+        {
+            "name": "XENONnT",
+            "exposure_ton_year": 0.0,
+            "threshold_keVnr": 0.2,
+            "threshold_MeVee": 0.0,
+            "Z": 54,
+            "N": 77,
+            "detector_mass_tons": 0.0
+        }
+    ],
+    "future_experiments": [
+        {
+            "name": "XLZD",
+            "exposure_ton_year": 200.0,
+            "threshold_keVnr": 1.0,
+            "threshold_MeVee": 0.0,
+            "Z": 54,
+            "N": 77,
+            "detector_mass_tons": 80.0
+        },
+        {
+            "name": "JUNO",
+            "exposure_ton_year": 200000.0,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.0,
+            "Z": 6,
+            "N": 6,
+            "detector_mass_tons": 20000.0
+        },
+        {
+            "name": "DUNE",
+            "exposure_ton_year": 400000.0,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.0,
+            "Z": 18,
+            "N": 22,
+            "detector_mass_tons": 40000.0
+        },
+        {
+            "name": "HK",
+            "exposure_ton_year": 1870000.0,
+            "threshold_keVnr": 0.0,
+            "threshold_MeVee": 0.0,
+            "Z": 6,
+            "N": 6,
+            "detector_mass_tons": 187000.0
+        }
+    ]
+}
